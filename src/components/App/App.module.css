@@ -2,9 +2,6 @@
 height: 100vh;
 display: flex;
 justify-content: center;
-flex-wrap: wrap;
 align-items: center;
-font-size: 40;
-color: '#010101';
-gap: 10px;
+gap: 25px;
 }

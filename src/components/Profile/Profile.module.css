@@ -3,7 +3,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 20px;
+    padding-top: 25px;
     background-color: #ffffff;
     box-shadow: 0 0 10px #c6cccced;
     border-radius: 15px;
@@ -22,8 +22,6 @@
     box-shadow: 0 0 3px 0px #0000004d;
     border-radius: 50%;
     background-color: #e7eeeeed;
-    padding: 20px 10px 0px 10px;
-    margin-top: 20px;
 }
 
 .name {

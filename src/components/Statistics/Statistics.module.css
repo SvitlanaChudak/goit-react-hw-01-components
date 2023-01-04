@@ -2,6 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 370px;
     box-shadow: 0 0 10px #c6cccced;
 }
 
@@ -13,15 +14,15 @@
     color: #524a4d;
 }
 
-.stat__list {
-    width: 370px;
+.stat_list {
+    width: inherit;
     display: flex;
     justify-content: center;
     padding: 0;
     margin: 0;
 }
 
-.stat__item {
+.stat_item {
     display: flex;
     flex-direction: column;
     padding: 10px;
@@ -31,13 +32,13 @@
 
 .label {
     font-weight: 700;
-    font-size: 20px;
-    color: #524a4d8b;
+    font-size: 15px;
+    color: white;
     margin-bottom: 5px;
 }
 
 .percentage {
     font-weight: 700;
     font-size: 20px;
-    color: #524a4d;
+    color: white;
 }
